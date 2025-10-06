@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    
+    <!-- Home Page - Highest Priority -->
+    <url>
+        <loc>https://256-martin.github.io/runyo/</loc>
+        <lastmod>2025-10-6</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- Audio Page -->
+    <url>
+        <loc>https://256-martin.github.io/runyo/audio</loc>
+        <lastmod>2025-10-6</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- Videos Page -->
+    <url>
+        <loc>https://256-martin.github.io/runyo/videos</loc>
+        <lastmod>2025-10-6</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- Artists Page -->
+    <url>
+        <loc>https://256-martin.github.io/runyo/artists</loc>
+        <lastmod>2025-10-6</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Upload Page -->
+    <url>
+        <loc>https://256-martin.github.io/runyo/upload</loc>
+        <lastmod>2025-10-6</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Contact Page -->
+    <url>
+        <loc>https://256-martin.github.io/runyo/contact</loc>
+        <lastmod>2025-10-6</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Login Page -->
+    <url>
+        <loc>https://256-martin.github.io/runyo/login</loc>
+        <lastmod>2025-10-6</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <!-- Register Page -->
+    <url>
+        <loc>https://256-martin.github.io/runyo/register</loc>
+        <lastmod>2025-10-6</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <!-- YouTube Channel -->
+    <url>
+        <loc>https://www.youtube.com/@bunyoro-music-flavour</loc>
+        <lastmod>2025-10-6</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+</urlset>
